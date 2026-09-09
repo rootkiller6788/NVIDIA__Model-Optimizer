@@ -6,6 +6,10 @@ Changelog
 
 **New Features**
 
+*Quantization*
+
+- Add a reusable local-Hessian NVFP4 PTQ recipe and a Qwen3.8-27B checkpoint recipe that reproduces its 5.5-bit AutoQuantize NVFP4/FP8 assignment.
+
 **Backward Breaking Changes**
 
 **Deprecations**
